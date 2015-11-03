@@ -2,12 +2,12 @@
 
 using Instagram APIs and `react.js` create a simple React web application.
 
-this web app based on `node.js`. online demo http://mblur.com 
+this web app based on `node.js`. online demo http://mblur.com
 
 **Steps**
 
 ```
-git clone https://github.com/Cattla/simple-instagram.git
+git clone https://github.com/cattla/simple-instagram.git
 
 cd simple-instagram && npm install
 
