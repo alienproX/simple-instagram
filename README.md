@@ -2,7 +2,7 @@
 
 using Instagram APIs and `react.js` create a simple React web application.
 
-this web app based on `node.js`. online demo http://mblur.com
+this web app based on `node.js`. online demo http://mblur.com 
 
 **Steps**
 
