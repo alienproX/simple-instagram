@@ -1,0 +1,38 @@
+header, hgroup, section, footer, aside, nav, article {
+	display: block;
+}
+html, body, form, div, span, h1, h2, h3, h4, h5, h6, p, a, img, ul, li {
+	padding: 0;
+	margin: 0;
+	border: 0 none
+}
+body {
+	background: #f8fafa;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+.auth {
+	border: 1px solid #3d8b5f;
+    background-color: #6bb38a;
+        background-image: -webkit-gradient(linear, left top, left bottom, from(#6bb38a), to(#3d8b5f));
+        background-image: -webkit-linear-gradient(top, #6bb38a, #3d8b5f);
+        background-image: -moz-linear-gradient(top, #6bb38a, #3d8b5f);
+        background-image: -o-linear-gradient(top, #6bb38a, #3d8b5f);
+        background-image: -ms-linear-gradient(top, #6bb38a, #3d8b5f);
+        background-image: linear-gradient(top, #6bb38a, #3d8b5f);
+	display: block;
+	margin: 30px auto;
+	padding: 8px 15px;
+	border-radius: 4px;
+	color: #fff;
+	font-size: 14px;
+	cursor: pointer;
+	width: 150px;
+	text-align: center;
+	text-decoration: none;
+    text-shadow: 0 1px 1px #1e693f;
+}
+.auth:hover {
+	background: #6bb38a;
+}
+p{text-align: center;color: red; margin-top: 50px;}
+.icon{width: 100px; height: 100px; display: block; margin: 0px auto; background: url(../images/instagramicon.png) top center no-repeat; background-size: 100px 100px; margin-top: 30px;}

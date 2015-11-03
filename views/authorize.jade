@@ -1,0 +1,10 @@
+doctype html
+html
+  head
+    title= title
+    meta(name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1')
+    link(rel='stylesheet', href='/stylesheets/auth.css')
+  body
+    p #{errorMsg}
+    span.icon
+    a(href="https://instagram.com/oauth/authorize/?client_id=#{client_id}&redirect_uri=#{redirect_uri}&response_type=code" class="auth") #{title}
