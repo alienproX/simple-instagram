@@ -1,8 +1,8 @@
 # simple-instagram
 
-Using Instagram APIs and React.js create a simple React demo.
+using Instagram APIs and React.js create a simple React demo.
 
-Online Demo http://mblur.com
+online demo http://mblur.com
 
 **Steps**
 
@@ -21,6 +21,8 @@ npm start
 
 
 
-Open brower and enter URL `http://localhost:1984`
+open brower and enter URL `http://localhost:1984`
+
+if you are living or working in Mainland China, you need to looking for a solution to cross the f##king Great Firewall to start this demo. 
 
 
