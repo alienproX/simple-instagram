@@ -9,9 +9,7 @@ online demo http://mblur.com
 ```
 git clone https://github.com/Cattla/simple-instagram.git
 
-cd simple-instagram
-
-npm install
+cd simple-instagram && npm install
 
 webpack -p
 
@@ -23,6 +21,4 @@ npm start
 
 open brower and enter URL `http://localhost:1984`
 
-if you are living or working in Mainland China, you need to look for a solution to cross the f##king Great Firewall to start this demo. 
-
-
+if you are living or working in Mainland China, you need to look for a solution to cross the f##king Great Firewall to start this demo.
