@@ -2,13 +2,22 @@
 
 Using Instagram API and React.js create a simple React demo.
 
+OnLine Demo http://mblur.com
+
 **Steps**
 
-1.`git clone https://github.com/Cattla/simple-instagram.git`
-2. `cd simple-instagram`
-3. npm install
-4. webpack -p
-5. npm start
+```
+git clone https://github.com/Cattla/simple-instagram.git
+
+cd simple-instagram
+
+npm install
+
+webpack -p
+
+npm start
+
+```
 
 
 open the brower and enter `http://localhost:1984/`
