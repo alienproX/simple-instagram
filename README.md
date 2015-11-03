@@ -1,4 +1,4 @@
-# simple-instagram
+# Simple Instagram
 
 using Instagram APIs and React.js create a simple React demo.
 
