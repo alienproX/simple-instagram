@@ -20,6 +20,7 @@ npm start
 ```
 
 
-Open brower and enter URL http://localhost:1984
+
+Open brower and enter URL `http://localhost:1984`
 
 
