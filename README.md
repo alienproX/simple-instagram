@@ -1,8 +1,8 @@
 # Simple Instagram
 
-using Instagram APIs and React.js create a simple React demo.
+using Instagram APIs and `react.js` create a simple React web application.
 
-online demo http://mblur.com
+this web app based on `node.js`. online demo http://mblur.com
 
 **Steps**
 
