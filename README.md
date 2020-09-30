@@ -1,4 +1,4 @@
-# Simple Instagram
+# amazing instagram
 
 using Instagram APIs and `React.js` create a simple React web application.
 
